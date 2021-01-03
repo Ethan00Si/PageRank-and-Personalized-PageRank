@@ -1,6 +1,6 @@
 # PageRank上机实验
 数据科学导论,2020春
-思子华,2018202181,2020-6-21
+2018202181,2020-6-21
 
 
 ## Tested Environment:（注明实验环境）
@@ -21,7 +21,7 @@ python3 2018202181-PageRank.py
 
 ## Instructions:
 
-###函数参数
+### 函数参数
 
 * pagerank
   * input_file_name: 使用相对路径或者绝对路径均可
